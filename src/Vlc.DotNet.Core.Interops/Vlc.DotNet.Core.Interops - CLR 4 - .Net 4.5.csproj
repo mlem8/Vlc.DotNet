@@ -196,6 +196,7 @@
     <Compile Include="Signatures\libvlc_media_player.h\libvlc_video_marquee_option_t.cs" />
     <Compile Include="Signatures\libvlc_media_player.h\libvlc_video_set_adjust_float.cs" />
     <Compile Include="Signatures\libvlc_media_player.h\libvlc_video_set_adjust_int.cs" />
+    <Compile Include="Signatures\libvlc_media_player.h\libvlc_video_set_aspect_ratio.cs" />
     <Compile Include="Signatures\libvlc_media_player.h\libvlc_video_set_crop_geometry.cs" />
     <Compile Include="Signatures\libvlc_media_player.h\libvlc_video_set_deinterlace.cs" />
     <Compile Include="Signatures\libvlc_media_player.h\libvlc_video_set_logo_int.cs" />
@@ -288,6 +289,7 @@
     <Compile Include="VlcManager.ReleaseModuleDescriptionInstance.cs" />
     <Compile Include="VlcManager.ReleaseTrackDescription.cs" />
     <Compile Include="VlcManager.SaveMediaMetas.cs" />
+    <Compile Include="VlcManager.SetAspectRatio.cs" />
     <Compile Include="VlcManager.SetAudioChannel.cs" />
     <Compile Include="VlcManager.SetAudioDelay.cs" />
     <Compile Include="VlcManager.SetAudioOutput.cs" />
